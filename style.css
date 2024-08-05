@@ -1,0 +1,48 @@
+header {
+    background-color: aquamarine;
+    height: auto;
+}
+
+.mainNavBarLi {
+    display: inline-block;
+    padding: 20px 5%;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30px;
+color: purple;
+}
+
+.mainNavBar {
+    text-align: center;
+}
+
+.mainNavBarLi a {
+    font-size: 20px;
+    font-weight: 300;
+    color:sienna;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main {
+    background-color: violet;
+    height: 400px;
+}
+
+.mainNavBarLi a:hover {
+    font-weight: 900;
+    color: purple;
+    font-style: 30px;
+}
+
+
+footer {
+    background-color: blanchedalmond;
+    height: 400px;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
